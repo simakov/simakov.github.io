@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-03_1858",
+    "name": "A-Travel",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -23,7 +23,9 @@
     },
     "versionFirst": "4.4.0",
     "uniqCompNum": 14,
-    "versionPublish": "4.4.0"
+    "versionPublish": "4.4.0",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
