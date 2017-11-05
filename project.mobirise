@@ -48,34 +48,36 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#efefef"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#efefef",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.35rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.462rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#efefef",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -92,32 +94,42 @@
             }
           },
           "_params": {
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "bgColor": "#282828",
-            "socialButtons": "4",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "bgColor": "#000000",
+            "socialButtons": "2",
+            "fontSize": "1.35",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobiriz.store/\">Туры</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobiriz.store/\" aria-expanded=\"true\">Изюминки</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobiriz.store/\" aria-expanded=\"true\">Мастерклассы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobiriz.store/\" aria-expanded=\"true\">Exclusive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobiriz.store/\" aria-expanded=\"true\">Отзывы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobiriz.store/\" aria-expanded=\"true\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobiriz.store/\">Скачать</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader3-2\">Туры</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-g\" aria-expanded=\"false\">Изюминки</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\" aria-expanded=\"false\">Мастерклассы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-k\" aria-expanded=\"false\">Exclusive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">Отзывы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-m\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobiriz.store/\">Скачать</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-logo-sand.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-381x128.png",
               "height": 128,
-              "alt": "Mobiriz",
-              "link": "https://mobiriz.store/extensions.php"
+              "alt": "A-travel",
+              "link": "index.html",
+              "title": "A-travel",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobiriz.store/extensions.php",
-              "size": 0
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "http://a-travel.ge",
+              "size": 0,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobiriz.store/extensions.php\" data-app-placeholder=\"Введите название сайта\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A-TRavel</a>",
@@ -215,7 +227,8 @@
             "Extension"
           ],
           "_name": "extMenu1",
-          "_anchor": "extMenu1-0"
+          "_anchor": "extMenu1-0",
+          "_customCSS": ".navbar-logo{\n    background:white;\n    border-radius:10px;\n    padding:4px 20px 7px 15px;\n}"
         },
         {
           "_params": {
@@ -227,7 +240,7 @@
             "iconsColor": "#fff",
             "showTitles": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gallery-132911-1-2000x672.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mountains84-vrmf3h-2000x1125.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -248,13 +261,13 @@
           "title4": "Нестандартные",
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
               "name": "layers",
-              "link": "https://mobiriz.store/extensions.php",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
+              "color": "#e6e6e6"
             }
           },
           "media2": {
@@ -264,31 +277,30 @@
               "name": "protect",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobiriz.store/extensions.php",
               "size": 0,
               "color": "#e6e6e6"
             }
           },
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
               "name": "pencil",
-              "link": "https://mobiriz.store/extensions.php",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
+              "color": "#e6e6e6"
             }
           },
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
               "name": "compass",
-              "link": "https://mobiriz.store/extensions.php",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
+              "color": "#e6e6e6"
             }
           },
           "alias": "mobirizblocks/components",
@@ -1038,19 +1050,20 @@
               }
             },
             {
-              "authorName": "Akmaral Iskakova",
+              "authorName": "Татьяна Баландина",
               "authorBio": "Пользователь",
-              "text": "<p>О том как же классно провести отпуск в Грузии, мы слышали давно. И вот мы купили билеты и стали ждать дня вылета в прекрасный город Тбилиси. Полет был очень \"интересным \" : дети кричали, пассажиры по соседству громко болтали, а один даже покурил, что уж дым пошел.... но спустя 3 ч 15 мин мы приземлились, забрали багаж и увидели нашего встречающего Гелу Васильевича. Мы сразу поняли что следующие 4 дня мы в надежных и сильных руках. Гела Васильевич всячески смешил нас и даже рассказал много интересного ( хотя мы даже еще не выехали из аэропорта) за что ему огромное спасибо⚘. Уже в отеле нас встретил Георгий Гвишиани, самый лучший гид и знаток своего дела , Георгий сразу понял цель нашей поездки и предоставил только самые интересные поездки. 4 дня поездок в Мтсхету , Казбеги и Лозанскую долину пролетели как один миг, но были столь насыщенными, что уехали мы наполненными счастьем и чувством благодарности Георгию, Геле Васильевичу и радушной Грузии, которая очень любит каждого туриста. Несомненно мы еще вернемся, ведь еще столько прекрасных мест ждут нас.... огромное спасибо компании за незабываемый отдых и море впечатлений. Хочется пожелать такой компании процветания и успехов во всем ⚘ с уважением Акмарал и Карагоз Искаковы ( Астана, Казахстан )</p>",
+              "text": "<p>Немного задержалась с написанием отзыва, но зато мысли \"дозрели\", как грузинское вино в квеври :).</p><p>Прежде всего - ОГРОМНОЕ СПАСИБО за этот чудесный август. Эту поездку мы очень ждали и давно планировали, находясь под впечатлением рассказов подруг, посетивших Грузию год назад. Не буду исключением и присоединюсь к компании поклонников - и страны, и её гостеприимных жителей</p><p>Думаю, наш отдых был бы не таким классным, если бы Анечка не организовала его таким. Кое-что у нас менялось в процессе подготовки, и она реагировала мгновенно - меняла, подсказывала, от чего-то отговорила, на чём-то настояла. Купила нам билеты на электричку в Батуми...(это оказалось не так просто сделать из Минска).</p><p>А в последний вечер, когда мы наконец-то встретились и познакомились, как говорится, глаза -в- глаза, эта мощная личность оказалась невероятно обаятельной изящной девушкой, очень приятной в общении. А как она нам спела!!!!!!&nbsp;</p><p>Короче, ребята, от всей души желаю процветания - и вам, и вашей стране, и вашей компании!</p><p>Будем очень рады видеть вас у нас в Беларуси!</p><p>Татьяна и ещё пятеро восторженных поклонников Грузии и её людей!</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/akramal-160x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/tatiana-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "",
+                  "link": "https://www.facebook.com/people/Татьяна-Баландина/100001779806339",
                   "alt": "",
-                  "title": ""
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               }
             }
@@ -1094,7 +1107,7 @@
           "title": "Задать вопрос",
           "title1": "Напишите нам",
           "subTitle1": "Готовы к сотрудничеству",
-          "text1": "Телефон: 8 (800) 445-45-34 </br> E-mail: support@mobiriz.store",
+          "text1": "Телефон: 8 (800) 445-45-34 <br> E-mail: info@a-tavel.ge",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">Отправить</a>",
           "media1": {
             "iconFont": {
