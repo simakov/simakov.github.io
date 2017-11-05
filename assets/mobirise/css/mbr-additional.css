@@ -1021,9 +1021,18 @@ h6,
 #features1-j .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
+#extTestimonials1-n .card-block P {
+  text-align: left;
+}
 #extForm3-m H2 {
   color: #c0a375;
 }
 #extForm3-m .intro-box h4 {
   color: #c0a375;
+}
+#form2-q .mbr-section-title {
+  color: #fff;
+}
+#form2-q .mbr-section-subtitle {
+  color: #a0a0a0;
 }

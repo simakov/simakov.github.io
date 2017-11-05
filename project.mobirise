@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 24,
+    "uniqCompNum": 28,
     "versionPublish": "4.4.0",
     "favicon": "",
     "noImageResize": ""
@@ -1043,7 +1043,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": true,
+            "showSubtitle": false,
             "showImages": true,
             "showName": true,
             "showBio": false,
@@ -1053,7 +1053,7 @@
             "paddingBottom": 1,
             "showBullets": true,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirizblocks/components/_images/flight-mountains-sky-flying.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/flight-mountains-sky-flying.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -1066,50 +1066,59 @@
             "overlayOpacity": 0.5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "text": "<p>Наше маленькое путешествие с супругом по Грузии пришлось на конец января, остались в полном восторге от страны и от приема! Побывали в Тбилиси, Мцхета, Сигнаги, Гудаури, Ахалесцихе, Боржоми, Уплисцихе, Вардзия)))))) Особенную благодарность хотелось бы выразить нашему гиду - Анне (Ануке Меликишвили), которая сопровождала нас на протяжении всего путешествия, за увлекательные экскурсии!!!!! Доступно, профессионально, обширно и, самое главное, с большой любовью к народу и ее истории, для неё это не просто работа, а любимое дело всей жизни! Анна прекрасный рассказчик, очень внимательна и корректна в общении, имеет богатейший запас знаний, хороший собеседник, интеллигентный человек.</p>",
                 "authorName": "Светлана Андреева&nbsp;",
                 "authorBio": "Разработчик",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/svetlana-160x159.jpg",
                     "class": "img-circle",
-                    "link": "https://mobiriz.store/extensions.php",
+                    "link": "https://www.facebook.com/svetlana.pavelko1",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
                   }
                 }
               },
               {
                 "active": false,
-                "text": "<p>“Mobirise&nbsp;-&nbsp;это приложение для Windows и Mac.”</p>",
-                "authorName": "ФЕкатерина",
+                "text": "<p>Я полюбила Тбилиси с первого взгляда, еще в те , достаточно далекие времена, когда приехала в Грузию впервые. Сейчас, после долгой разлуки, мы с друзьями решили,что стоит взглянуть на эту страну взрослыми глазами, и не прогадали.</p><p>За 9 дней невозможно увидеть все, но нашей путеводной звездой была удивительная девушка - Анука Меликишвили. Монастыри, Мцхета, Кахетия, пешая экскурсия по Тбилиси.... маленькие улочки, запах кофе и вкусностей, волшебные рассказы, были и небылицы. Всю свою любовь к этой сказочной стране Анна передавала нам. Спасибо большое, Анечка, твои экскурсии - одно удовольствие!</p><p>А вино! а кухня! а волшебные хачапури...!!!!!, я уже не говорю о музее, где идут настоящие раскопки и работают археологи, водопаде в центре старого города, серных банях, и просто прогулках вдоль Куры, когда вечереет и загораются огни...</p><p>Конечно главное достояние Грузии - это люди. Разговорчивые, колоритные, дружелюбные и гостеприимные, с которыми можно завести беседу на любую тему и услышать самые невероятные мнения... (меня, например, искренне удивила вера что Владивосток - это крайний север, ну просто практически заполярный круг)))</p><p>А как описать то чувство с которым ты прощаешься с Грузией? То томящее чувство, когда понимаешь что не хватило, невозможно расстаться, хочется обнять какое-нибудь дерево и не отрываться, не давать себя увезти.... Наверное это и есть ностальгия. Пишу и улыбаюсь, обязательно приеду, спасибо Аня-Анука, спасибо Тбилиси, до встречи!</p>",
+                "authorName": "Юлия Черкасова&nbsp;",
                 "authorBio": "Пользователь",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/ulia-160x160.jpg",
                     "class": "img-circle",
-                    "link": "https://mobiriz.store/extensions.php",
+                    "link": "https://www.facebook.com/people/Юлия-Черкасова/100003782835452",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
                   }
                 }
               },
               {
-                "active": false,
-                "text": "<p>“Mobirise&nbsp;-&nbsp;это приложение для Windows и Mac.”</p>",
-                "authorName": "Ольга",
+                "active": true,
+                "text": "<p>О том как же классно провести отпуск в Грузии, мы слышали давно. И вот мы купили билеты и стали ждать дня вылета в прекрасный город Тбилиси. Полет был очень \"интересным \" : дети кричали, пассажиры по соседству громко болтали, а один даже покурил, что уж дым пошел.... но спустя 3 ч 15 мин мы приземлились, забрали багаж и увидели нашего встречающего Гелу Васильевича. Мы сразу поняли что следующие 4 дня мы в надежных и сильных руках. Гела Васильевич всячески смешил нас и даже рассказал много интересного ( хотя мы даже еще не выехали из аэропорта) за что ему огромное спасибо⚘. Уже в отеле нас встретил Георгий Гвишиани, самый лучший гид и знаток своего дела , Георгий сразу понял цель нашей поездки и предоставил только самые интересные поездки. 4 дня поездок в Мтсхету , Казбеги и Лозанскую долину пролетели как один миг, но были столь насыщенными, что уехали мы наполненными счастьем и чувством благодарности Георгию, Геле Васильевичу и радушной Грузии, которая очень любит каждого туриста. Несомненно мы еще вернемся, ведь еще столько прекрасных мест ждут нас.... огромное спасибо компании за незабываемый отдых и море впечатлений. Хочется пожелать такой компании процветания и успехов во всем ⚘ с уважением Акмарал и Карагоз Искаковы ( Астана, Казахстан )</p>",
+                "authorName": "Akmaral Iskakova",
                 "authorBio": "Пользователь",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/akramal-160x160.jpg",
                     "class": "img-circle",
-                    "link": "https://mobiriz.store/extensions.php",
+                    "link": "https://www.facebook.com/akmaral.iskakova",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
                   }
                 }
               }
@@ -1122,7 +1131,12 @@
             "Extension"
           ],
           "_name": "extTestimonials1",
-          "_anchor": "extTestimonials1-n"
+          "_anchor": "extTestimonials1-n",
+          "_styles": {
+            ".card-block P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -1211,6 +1225,165 @@
               "color": "#c0a375"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "showArrows": true,
+            "showBullets": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "5",
+            "slides": [
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "link": "https://mobiriz.store/extensions.php",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "link": "https://mobiriz.store/extensions.php",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "link": "https://mobiriz.store/extensions.php",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "link": "https://mobiriz.store/extensions.php",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "link": "https://mobiriz.store/extensions.php",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "link": "https://mobiriz.store/extensions.php",
+                    "active": true
+                  }
+                }
+              }
+            ]
+          },
+          "title": "Наши партнеры",
+          "subtitle": "\"Mobiriz Connect\" Mobirise&nbsp;-&nbsp;это приложение для Windows и Mac.",
+          "alias": "mobirizblocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials5",
+          "_anchor": "extTestimonials5-o"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Форма подписки",
+          "subtitle": "Подписаться на нашу прекрасную и удивтельную рассылку&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">Подписаться</a>",
+          "form": {
+            "action": "koda.su@gmail.com",
+            "alerts": {
+              "success": "Сообщение отправлено!"
+            },
+            "fields": {
+              "email": {
+                "title": "E-mail",
+                "customTitle": "Введите Ваш E-mail"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-q"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "2017&nbsp;© A-travel",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-r"
         }
       ]
     }
