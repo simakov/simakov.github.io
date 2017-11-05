@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "4.4.0",
     "favicon": "",
     "noImageResize": ""
@@ -92,11 +92,11 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#282828",
             "socialButtons": "4",
@@ -105,7 +105,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobiriz.store/\">Чистый код</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobiriz.store/\">Адаптивный дизайн</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobiriz.store/\">Мобильный</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobiriz.store/\">Бутстрап 4</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobiriz.store/\">Красивые блоки</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobiriz.store/\">Слайдеры</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobiriz.store/\">Формы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobiriz.store/\">Галереи</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobiriz.store/\">Меню</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobiriz.store/\">Google карты</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobiriz.store/\">Соц.сети</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobiriz.store/\">Google шрифты</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobiriz.store/\">Видео</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobiriz.store/\">Размещайте</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobiriz.store/\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobiriz.store/extensions.php\">Форум</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobiriz.store/\">Документация</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobiriz.store/\">Контакты</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobiriz.store/\">Скачать</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobiriz.store/\">Туры</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobiriz.store/\" aria-expanded=\"true\">Изюминки</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobiriz.store/\" aria-expanded=\"true\">Мастерклассы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobiriz.store/\" aria-expanded=\"true\">Exclusive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobiriz.store/\" aria-expanded=\"true\">Отзывы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobiriz.store/\" aria-expanded=\"true\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobiriz.store/\">Скачать</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -216,67 +216,6 @@
           ],
           "_name": "extMenu1",
           "_anchor": "extMenu1-0"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "animType": "kenburns",
-            "theme": "sunny",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide3-1600x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide3.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip3.jpg",
-                "title": "title 1",
-                "text": "text 1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide2-1600x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide2.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip2.jpg",
-                "title": "title 2",
-                "text": "text 2",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide1-1600x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
-                "title": "title 3",
-                "text": "text 3"
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": false,
-            "responsive": "2",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "captionsEffect": "slide",
-            "showBullets": false,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1024",
-            "height": "576"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-1"
         },
         {
           "_params": {
@@ -477,7 +416,7 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
+            "paddingTop": "4",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
@@ -909,8 +848,8 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "title": "A-Travel Exclusive",
@@ -1047,96 +986,80 @@
             "showImages": true,
             "showName": true,
             "showBio": false,
-            "autoplay": true,
-            "timeout": 5,
-            "paddingTop": 2,
-            "paddingBottom": 1,
-            "showBullets": true,
+            "count": 3,
+            "paddingTop": "2",
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/flight-mountains-sky-flying.jpg",
-            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
             "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
-            "slides": [
-              {
-                "active": false,
-                "text": "<p>Наше маленькое путешествие с супругом по Грузии пришлось на конец января, остались в полном восторге от страны и от приема! Побывали в Тбилиси, Мцхета, Сигнаги, Гудаури, Ахалесцихе, Боржоми, Уплисцихе, Вардзия)))))) Особенную благодарность хотелось бы выразить нашему гиду - Анне (Ануке Меликишвили), которая сопровождала нас на протяжении всего путешествия, за увлекательные экскурсии!!!!! Доступно, профессионально, обширно и, самое главное, с большой любовью к народу и ее истории, для неё это не просто работа, а любимое дело всей жизни! Анна прекрасный рассказчик, очень внимательна и корректна в общении, имеет богатейший запас знаний, хороший собеседник, интеллигентный человек.</p>",
-                "authorName": "Светлана Андреева&nbsp;",
-                "authorBio": "Разработчик",
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/svetlana-160x159.jpg",
-                    "class": "img-circle",
-                    "link": "https://www.facebook.com/svetlana.pavelko1",
-                    "height": 160,
-                    "width": 160,
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "text": "<p>Я полюбила Тбилиси с первого взгляда, еще в те , достаточно далекие времена, когда приехала в Грузию впервые. Сейчас, после долгой разлуки, мы с друзьями решили,что стоит взглянуть на эту страну взрослыми глазами, и не прогадали.</p><p>За 9 дней невозможно увидеть все, но нашей путеводной звездой была удивительная девушка - Анука Меликишвили. Монастыри, Мцхета, Кахетия, пешая экскурсия по Тбилиси.... маленькие улочки, запах кофе и вкусностей, волшебные рассказы, были и небылицы. Всю свою любовь к этой сказочной стране Анна передавала нам. Спасибо большое, Анечка, твои экскурсии - одно удовольствие!</p><p>А вино! а кухня! а волшебные хачапури...!!!!!, я уже не говорю о музее, где идут настоящие раскопки и работают археологи, водопаде в центре старого города, серных банях, и просто прогулках вдоль Куры, когда вечереет и загораются огни...</p><p>Конечно главное достояние Грузии - это люди. Разговорчивые, колоритные, дружелюбные и гостеприимные, с которыми можно завести беседу на любую тему и услышать самые невероятные мнения... (меня, например, искренне удивила вера что Владивосток - это крайний север, ну просто практически заполярный круг)))</p><p>А как описать то чувство с которым ты прощаешься с Грузией? То томящее чувство, когда понимаешь что не хватило, невозможно расстаться, хочется обнять какое-нибудь дерево и не отрываться, не давать себя увезти.... Наверное это и есть ностальгия. Пишу и улыбаюсь, обязательно приеду, спасибо Аня-Анука, спасибо Тбилиси, до встречи!</p>",
-                "authorName": "Юлия Черкасова&nbsp;",
-                "authorBio": "Пользователь",
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/ulia-160x160.jpg",
-                    "class": "img-circle",
-                    "link": "https://www.facebook.com/people/Юлия-Черкасова/100003782835452",
-                    "height": 160,
-                    "width": 160,
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": true
-                  }
-                }
-              },
-              {
-                "active": true,
-                "text": "<p>О том как же классно провести отпуск в Грузии, мы слышали давно. И вот мы купили билеты и стали ждать дня вылета в прекрасный город Тбилиси. Полет был очень \"интересным \" : дети кричали, пассажиры по соседству громко болтали, а один даже покурил, что уж дым пошел.... но спустя 3 ч 15 мин мы приземлились, забрали багаж и увидели нашего встречающего Гелу Васильевича. Мы сразу поняли что следующие 4 дня мы в надежных и сильных руках. Гела Васильевич всячески смешил нас и даже рассказал много интересного ( хотя мы даже еще не выехали из аэропорта) за что ему огромное спасибо⚘. Уже в отеле нас встретил Георгий Гвишиани, самый лучший гид и знаток своего дела , Георгий сразу понял цель нашей поездки и предоставил только самые интересные поездки. 4 дня поездок в Мтсхету , Казбеги и Лозанскую долину пролетели как один миг, но были столь насыщенными, что уехали мы наполненными счастьем и чувством благодарности Георгию, Геле Васильевичу и радушной Грузии, которая очень любит каждого туриста. Несомненно мы еще вернемся, ведь еще столько прекрасных мест ждут нас.... огромное спасибо компании за незабываемый отдых и море впечатлений. Хочется пожелать такой компании процветания и успехов во всем ⚘ с уважением Акмарал и Карагоз Искаковы ( Астана, Казахстан )</p>",
-                "authorName": "Akmaral Iskakova",
-                "authorBio": "Пользователь",
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/akramal-160x160.jpg",
-                    "class": "img-circle",
-                    "link": "https://www.facebook.com/akmaral.iskakova",
-                    "height": 160,
-                    "width": 160,
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": true
-                  }
-                }
-              }
-            ]
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
           },
           "title": "Отзывы от туристов",
-          "subtitle": "Mobirise&nbsp;-&nbsp;это приложение для Windows и Mac.",
-          "alias": "mobirizblocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTestimonials1",
-          "_anchor": "extTestimonials1-n",
-          "_styles": {
-            ".card-block P": {
-              "text-align": "left"
+          "subtitle": "Создавайте шедевры без навыков программирования!",
+          "testimonial": [
+            {
+              "authorName": "Светлана Андреева&nbsp;",
+              "authorBio": "Пользователь",
+              "text": "<p>Наше маленькое путешествие с супругом по Грузии пришлось на конец января, остались в полном восторге от страны и от приема! Побывали в Тбилиси, Мцхета, Сигнаги, Гудаури, Ахалесцихе, Боржоми, Уплисцихе, Вардзия)))))) Особенную благодарность хотелось бы выразить нашему гиду - Анне (Ануке Меликишвили), которая сопровождала нас на протяжении всего путешествия, за увлекательные экскурсии!!!!! Доступно, профессионально, обширно и, самое главное, с большой любовью к народу и ее истории, для неё это не просто работа, а любимое дело всей жизни! Анна прекрасный рассказчик, очень внимательна и корректна в общении, имеет богатейший запас знаний, хороший собеседник, интеллигентный человек.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/svetlana-160x159.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "https://www.facebook.com/svetlana.pavelko1",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Юлия Черкасова&nbsp;",
+              "authorBio": "Пользователь",
+              "text": "<p>Я полюбила Тбилиси с первого взгляда, еще в те , достаточно далекие времена, когда приехала в Грузию впервые. Сейчас, после долгой разлуки, мы с друзьями решили,что стоит взглянуть на эту страну взрослыми глазами, и не прогадали.</p><p>За 9 дней невозможно увидеть все, но нашей путеводной звездой была удивительная девушка - Анука Меликишвили. Монастыри, Мцхета, Кахетия, пешая экскурсия по Тбилиси.... маленькие улочки, запах кофе и вкусностей, волшебные рассказы, были и небылицы. Всю свою любовь к этой сказочной стране Анна передавала нам. Спасибо большое, Анечка, твои экскурсии - одно удовольствие!</p><p>А вино! а кухня! а волшебные хачапури...!!!!!, я уже не говорю о музее, где идут настоящие раскопки и работают археологи, водопаде в центре старого города, серных банях, и просто прогулках вдоль Куры, когда вечереет и загораются огни...</p><p>Конечно главное достояние Грузии - это люди. Разговорчивые, колоритные, дружелюбные и гостеприимные, с которыми можно завести беседу на любую тему и услышать самые невероятные мнения... (меня, например, искренне удивила вера что Владивосток - это крайний север, ну просто практически заполярный круг)))</p><p>А как описать то чувство с которым ты прощаешься с Грузией? То томящее чувство, когда понимаешь что не хватило, невозможно расстаться, хочется обнять какое-нибудь дерево и не отрываться, не давать себя увезти.... Наверное это и есть ностальгия. Пишу и улыбаюсь, обязательно приеду, спасибо Аня-Анука, спасибо Тбилиси, до встречи!</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/ulia-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "https://www.facebook.com/people/Юлия-Черкасова/100003782835452",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              }
+            },
+            {
+              "authorName": "Akmaral Iskakova",
+              "authorBio": "Пользователь",
+              "text": "<p>О том как же классно провести отпуск в Грузии, мы слышали давно. И вот мы купили билеты и стали ждать дня вылета в прекрасный город Тбилиси. Полет был очень \"интересным \" : дети кричали, пассажиры по соседству громко болтали, а один даже покурил, что уж дым пошел.... но спустя 3 ч 15 мин мы приземлились, забрали багаж и увидели нашего встречающего Гелу Васильевича. Мы сразу поняли что следующие 4 дня мы в надежных и сильных руках. Гела Васильевич всячески смешил нас и даже рассказал много интересного ( хотя мы даже еще не выехали из аэропорта) за что ему огромное спасибо⚘. Уже в отеле нас встретил Георгий Гвишиани, самый лучший гид и знаток своего дела , Георгий сразу понял цель нашей поездки и предоставил только самые интересные поездки. 4 дня поездок в Мтсхету , Казбеги и Лозанскую долину пролетели как один миг, но были столь насыщенными, что уехали мы наполненными счастьем и чувством благодарности Георгию, Геле Васильевичу и радушной Грузии, которая очень любит каждого туриста. Несомненно мы еще вернемся, ведь еще столько прекрасных мест ждут нас.... огромное спасибо компании за незабываемый отдых и море впечатлений. Хочется пожелать такой компании процветания и успехов во всем ⚘ с уважением Акмарал и Карагоз Искаковы ( Астана, Казахстан )</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/akramal-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
             }
-          }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "_anchor": "testimonials2-s"
         },
         {
           "_params": {
