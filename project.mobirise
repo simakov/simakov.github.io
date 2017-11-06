@@ -349,11 +349,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13310.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13312.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "Бодбе",
                 "caption": "Бодбе",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -371,8 +371,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/gruzja1-1024x512.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gruzja1-1024x512-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alaverdi-1973x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alaverdi-1973x1331-800x539.jpg",
                 "alt": "Алаверди",
                 "caption": "Алаверди",
                 "active": false
@@ -393,11 +393,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/maxresdefault-1-1200x675.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/maxresdefault-1-1200x675-800x450.jpg",
-                "alt": "Греми",
-                "caption": "Введите описание",
-                "active": false
+                "image": "@PROJECT_PATH@/assets/images/batumi-2000x1310.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/batumi-2000x1310-800x524.jpg",
+                "alt": "Батуми",
+                "caption": "Батуми",
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -415,7 +415,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13311.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13313.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "вардзия",
                 "caption": "Вардзия",
@@ -717,7 +717,7 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
