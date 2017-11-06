@@ -133,7 +133,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobiriz.store/extensions.php\" data-app-placeholder=\"Введите название сайта\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A-TRavel</a>",
-          "phone": "8 (800) 445-45-34",
+          "phone": "+995 595 643377",
           "email": "info@a-travel.ge",
           "media1": {
             "iconFont": {
@@ -349,7 +349,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13312.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13314.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "Бодбе",
                 "caption": "Бодбе",
@@ -415,7 +415,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13313.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13315.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "вардзия",
                 "caption": "Вардзия",
@@ -1097,9 +1097,10 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "Тбилиси, ул. Важа Пшавела, 16 (13 этаж)",
+              "placeId": "ChIJMXc1OgxzREARiMdwEc2s1KI",
+              "state": "ok",
+              "stateDetails": ""
             },
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
@@ -1118,7 +1119,7 @@
           "title": "Задать вопрос",
           "title1": "Напишите нам",
           "subTitle1": "Готовы к сотрудничеству",
-          "text1": "Телефон: 8 (800) 445-45-34 <br> E-mail: info@a-tavel.ge",
+          "text1": "Телефон: +995 595 643377 <br>Тбилиси, ул. Важа Пшавела, 16 (13 этаж)<br> E-mail: info@a-tavel.ge",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">Отправить</a>",
           "media1": {
             "iconFont": {
