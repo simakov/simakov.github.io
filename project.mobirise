@@ -327,9 +327,9 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1626x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1626x1080-800x531.jpg",
-                "alt": "",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1328.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1328-800x531.jpg",
+                "alt": "Мцхета",
                 "caption": "Мцхета",
                 "active": false
               },
@@ -338,9 +338,9 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/3440-0-s-1200x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3440-0-s-1200x800-800x533.jpg",
-                "alt": "",
+                "image": "@PROJECT_PATH@/assets/images/-2000x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
+                "alt": "сигнаги",
                 "caption": "Сигнаги",
                 "active": false
               },
@@ -349,11 +349,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/bodbe-monastery-1-5997b3966c017934d3e00bfca1557258-1280x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bodbe-monastery-1-5997b3966c017934d3e00bfca1557258-1280x800-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13310.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "Бодбе",
                 "caption": "Бодбе",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -385,7 +385,7 @@
                 "image": "@PROJECT_PATH@/assets/images/big-59512024ff93676eee086945-59513e38bc5e2-1cl2fhp-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/big-59512024ff93676eee086945-59513e38bc5e2-1cl2fhp-2000x1333-800x533.jpg",
                 "alt": "Икалто",
-                "caption": "Введите описание",
+                "caption": "Икалто",
                 "active": false
               },
               {
@@ -397,7 +397,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/maxresdefault-1-1200x675-800x450.jpg",
                 "alt": "Греми",
                 "caption": "Введите описание",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -408,6 +408,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gruziya-1024x768-800x600.jpg",
                 "alt": "Тбилиси",
                 "caption": "Тбилиси",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13311.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
+                "alt": "вардзия",
+                "caption": "Вардзия",
                 "active": false
               }
             ]
