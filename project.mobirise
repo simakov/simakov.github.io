@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 30,
+    "uniqCompNum": 33,
     "versionPublish": "4.4.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x125.png",
     "noImageResize": ""
@@ -349,7 +349,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x133112.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x133114.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "Бодбе",
                 "caption": "Бодбе",
@@ -404,7 +404,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x133113.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x133115.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "вардзия",
                 "caption": "Вардзия",
@@ -479,15 +479,15 @@
         {
           "_inherit": "gallery1",
           "_params": {
-            "showBullets": false,
-            "fullWidth": false,
-            "spacing": "0",
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
             "paddingTop": 4,
             "paddingBottom": 4,
             "filterBgColor": false,
             "bgColor": "fff",
-            "showText": true,
-            "filter": false,
+            "showText": false,
+            "filter": true,
             "images": [
               {
                 "tags": "Awesome",
@@ -578,7 +578,7 @@
           "articleLayout": false,
           "allItem": "All",
           "_name": "gallery2",
-          "_anchor": "gallery2-t"
+          "_anchor": "gallery2-w"
         },
         {
           "_styles": {
