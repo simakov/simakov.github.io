@@ -349,7 +349,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13316.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13318.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "Бодбе",
                 "caption": "Бодбе",
@@ -404,7 +404,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13317.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13319.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "вардзия",
                 "caption": "Вардзия",
@@ -473,7 +473,8 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-3"
+          "_anchor": "gallery1-3",
+          "_customCSS": ""
         },
         {
           "_styles": {
