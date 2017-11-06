@@ -349,7 +349,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x133118.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x133120.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "Бодбе",
                 "caption": "Бодбе",
@@ -404,7 +404,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x133119.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x133121.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "вардзия",
                 "caption": "Вардзия",
@@ -1331,8 +1331,8 @@
             "timeout": 5,
             "paddingTop": 2,
             "paddingBottom": 1,
-            "showArrows": true,
-            "showBullets": true,
+            "showArrows": false,
+            "showBullets": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/flight-mountains-sky-flying.jpg",
             "parallax": false,
@@ -1345,65 +1345,53 @@
             "overlay": false,
             "overlayColor": "#000",
             "overlayOpacity": 0.5,
-            "visibleSlides": "5",
+            "visibleSlides": "4",
             "slides": [
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/more-travel-1080x777.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/java-925x925.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/intourist-789x235.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
               {
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1.png",
-                    "link": "https://mobiriz.store/extensions.php",
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2.png",
-                    "link": "https://mobiriz.store/extensions.php",
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
-                    "link": "https://mobiriz.store/extensions.php",
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4.png",
-                    "link": "https://mobiriz.store/extensions.php",
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
-                    "link": "https://mobiriz.store/extensions.php",
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
-                    "link": "https://mobiriz.store/extensions.php",
-                    "active": true
+                    "src": "@PROJECT_PATH@/assets/images/pegas-200x200.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
                   }
                 }
               }
