@@ -101,7 +101,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#000000",
-            "socialButtons": "2",
+            "socialButtons": "1",
             "fontSize": "1.35",
             "fontName": {
               "name": "Roboto",
@@ -349,7 +349,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13314.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13318.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "Бодбе",
                 "caption": "Бодбе",
@@ -404,7 +404,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13315.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13319.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "вардзия",
                 "caption": "Вардзия",
@@ -1408,14 +1408,6 @@
           "_customCSS": ".boxed-slider img{\n    max-height:60px;\n    -webkit-filter: grayscale(100%);\n   -moz-filter: grayscale(100%);\n    -ms-filter: grayscale(100%);\n     -o-filter: grayscale(100%);\n        filter: grayscale(100%);\n}\n.boxed-slider img:hover{\n-webkit-filter: grayscale(0%);\n   -moz-filter: grayscale(0%);\n    -ms-filter: grayscale(0%);\n     -o-filter: grayscale(0%);\n        filter: grayscale(0%);\n}"
         },
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
@@ -1432,7 +1424,7 @@
           },
           "title": "Форма подписки",
           "subtitle": "Подписаться на новости и спецпредложения",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">Подписаться</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Подписаться</a>",
           "form": {
             "action": "koda.su@gmail.com",
             "alerts": {
@@ -1449,7 +1441,12 @@
             "Theme"
           ],
           "_name": "form2",
-          "_anchor": "form2-q"
+          "_anchor": "form2-q",
+          "_customHTML": "<section class=\"mbr-section form2\" data-rv-view=\"179\" style=\"background-color: rgb(46, 46, 46); padding-top: 120px; padding-bottom: 120px;\">\n        \n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"25\">Форма подписки</h3>\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"26\">Подписаться на новости и спецпредложения</small>\n                </div>\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\" data-form-type=\"formoid\">\n                    <div data-form-alert=\"true\"><div hidden=\"\" data-form-alert-success=\"true\">Сообщение отправлено!</div></div>\n                    <form class=\"mbr-form\" action=\"https://cp.unisender.com/ru/subscribe?hash=6punmpye65aumko8dn1qu195y4tykp1fyppkqgbmp9f56ib1yqmjy\" method=\"post\" data-form-title=\"Форма подписки\">\n                        <input type=\"hidden\" value=\"DOYZ8tJojt5IhRosG+bV5SNTLyZW5eLbydcLxBq50tGi+Lqeq7nmEr3SSEurLjouacWBEKvsxpVMBEZbcJEHMGNDGRHbylxhbvzK0tGCeSMCurKNwjpjUuUhM6zsERIP\" data-form-email=\"true\">\n                        <div class=\"mbr-subscribe mbr-subscribe-dark input-group\">\n                            <input type=\"email\" class=\"form-control\" name=\"email\" required=\"1\" data-form-field=\"E-mail\" placeholder=\"Введите Ваш E-mail\" id=\"form2-q-email\">\n                            <span class=\"input-group-btn\"><button type=\"submit\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"27\">Подписаться</button></span>\n                        </div>\n                         <input type=\"hidden\" name=\"charset\" value=\"UTF-8\">\n    <input type=\"hidden\" name=\"default_list_id\" value=\"11278877\">\n    <input type=\"hidden\" name=\"list_ids[]\" value=\"11278877\">\n    <input type=\"hidden\" name=\"list_ids[]\" value=\"11352309\">\n    <input type=\"hidden\" name=\"list_ids[]\" value=\"11383985\">\n    <input type=\"hidden\" name=\"list_ids[]\" value=\"11384025\">\n    <input type=\"hidden\" name=\"list_ids[]\" value=\"11384037\">\n    <input type=\"hidden\" name=\"list_ids[]\" value=\"11384053\">\n    <input type=\"hidden\" name=\"overwrite\" value=\"2\">\n    <input type=\"hidden\" name=\"is_v5\" value=\"1\">\n                    </form>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title {\n  color: #fff;\n}\n.mbr-section-subtitle {\n  color: #a0a0a0;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
