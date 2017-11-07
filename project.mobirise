@@ -111,7 +111,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader3-2\">Туры</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-g\" aria-expanded=\"false\">Изюминки</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\" aria-expanded=\"false\">Мастерклассы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-k\" aria-expanded=\"false\">Exclusive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">Отзывы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-m\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobiriz.store/\">Скачать</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader3-2\">Туры</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-g\" aria-expanded=\"false\">Изюминки</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\" aria-expanded=\"false\">Мастерклассы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-k\" aria-expanded=\"false\">Exclusive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">Отзывы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">Партнеры</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-m\" aria-expanded=\"true\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobiriz.store/\">Скачать</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -349,7 +349,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13310.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13312.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "Бодбе",
                 "caption": "Бодбе",
@@ -404,7 +404,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13311.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13313.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "вардзия",
                 "caption": "Вардзия",
@@ -892,7 +892,7 @@
                 "src": "@PROJECT_PATH@/assets/images/9f008ddc571b63ea770b3a052f8fa244279ba1df-1080x720.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/9f008ddc571b63ea770b3a052f8fa244279ba1df-72x48.png",
                 "title": "Хачапури",
-                "text": "описание",
+                "text": "",
                 "active": false
               },
               {
@@ -902,7 +902,7 @@
                 "src": "@PROJECT_PATH@/assets/images/img-1828-2000x1333.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/img-1828-72x48.png",
                 "title": "Шоти",
-                "text": "Праздник",
+                "text": "",
                 "active": false
               },
               {
@@ -912,7 +912,7 @@
                 "src": "@PROJECT_PATH@/assets/images/33089-tur-v-gruziyu-iz-minska-3-1024x768.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/33089-tur-v-gruziyu-iz-minska-3-64x48.png",
                 "title": "Ртвели",
-                "text": "Праздник",
+                "text": "",
                 "active": false
               },
               {
@@ -922,7 +922,7 @@
                 "src": "@PROJECT_PATH@/assets/images/50a4075d4cd862463a6f31505d668a2c-720x482.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/50a4075d4cd862463a6f31505d668a2c-71x48.png",
                 "title": "Чача",
-                "text": "дегустация",
+                "text": "",
                 "active": false
               },
               {
@@ -932,7 +932,7 @@
                 "src": "@PROJECT_PATH@/assets/images/flavour-9-hinkali-1100x700.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/flavour-9-hinkali-75x48.png",
                 "title": "Хинкали",
-                "text": "мастер-класс",
+                "text": "",
                 "active": false
               },
               {
@@ -942,7 +942,7 @@
                 "src": "@PROJECT_PATH@/assets/images/95fa079268db00b851a494a59f7-1920x1200.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/95fa079268db00b851a494a59f7-76x48.png",
                 "title": "Шашлык",
-                "text": "мастер-класс",
+                "text": "",
                 "active": false
               },
               {
@@ -952,7 +952,7 @@
                 "src": "@PROJECT_PATH@/assets/images/06-900x600.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/06-72x48.png",
                 "title": "Минанкари",
-                "text": "мастер-класс",
+                "text": "",
                 "active": false
               },
               {
@@ -962,7 +962,7 @@
                 "src": "@PROJECT_PATH@/assets/images/gruzinskie_narodnie-876x584.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/gruzinskie-narodnie-72x48.png",
                 "title": "Танцы",
-                "text": "описание",
+                "text": "",
                 "active": false
               },
               {
@@ -972,7 +972,7 @@
                 "src": "@PROJECT_PATH@/assets/images/217024157-960x624.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/217024157-73x48.png",
                 "title": "Хридоли",
-                "text": "описание",
+                "text": "",
                 "active": false
               },
               {
@@ -982,7 +982,7 @@
                 "src": "@PROJECT_PATH@/assets/images/big-800x533.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/big-72x48.png",
                 "title": "Керамика",
-                "text": "описание",
+                "text": "",
                 "active": true
               }
             ],
@@ -1431,7 +1431,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Форма подписки",
-          "subtitle": "Подписаться на нашу прекрасную и удивтельную рассылку&nbsp;",
+          "subtitle": "Подписаться на новости и спецпредложения",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">Подписаться</a>",
           "form": {
             "action": "koda.su@gmail.com",
