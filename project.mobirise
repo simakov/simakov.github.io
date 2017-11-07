@@ -349,7 +349,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x133120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13310.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "Бодбе",
                 "caption": "Бодбе",
@@ -404,7 +404,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x133121.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13311.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "вардзия",
                 "caption": "Вардзия",
@@ -1327,7 +1327,7 @@
           "_params": {
             "showTitle": true,
             "showSubtitle": false,
-            "autoplay": true,
+            "autoplay": false,
             "timeout": 5,
             "paddingTop": 2,
             "paddingBottom": 1,
@@ -1348,46 +1348,46 @@
             "visibleSlides": "4",
             "slides": [
               {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/more-travel-1080x777.jpg",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/java-925x925.jpg",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/intourist-789x235.jpg",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/pegas-200x200.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/intourist-logo-1019x250.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/java-logo-274x250.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/more-travel.svg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/pegas-logo-755x250.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1404,7 +1404,8 @@
             "Extension"
           ],
           "_name": "extTestimonials5",
-          "_anchor": "extTestimonials5-o"
+          "_anchor": "extTestimonials5-o",
+          "_customCSS": ".boxed-slider img{\n    max-height:60px;\n    -webkit-filter: grayscale(100%);\n   -moz-filter: grayscale(100%);\n    -ms-filter: grayscale(100%);\n     -o-filter: grayscale(100%);\n        filter: grayscale(100%);\n}\n.boxed-slider img:hover{\n-webkit-filter: grayscale(0%);\n   -moz-filter: grayscale(0%);\n    -ms-filter: grayscale(0%);\n     -o-filter: grayscale(0%);\n        filter: grayscale(0%);\n}"
         },
         {
           "_styles": {
