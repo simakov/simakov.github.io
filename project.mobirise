@@ -111,7 +111,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader3-2\">Туры</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-g\" aria-expanded=\"false\">Изюминки</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\" aria-expanded=\"false\">Мастерклассы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-k\" aria-expanded=\"false\">Exclusive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">Отзывы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">Партнеры</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-m\" aria-expanded=\"true\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobiriz.store/\">Скачать</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader3-2\">Туры</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-g\" aria-expanded=\"false\">Изюминки</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-9\" aria-expanded=\"false\">Мастерклассы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-k\" aria-expanded=\"false\">Exclusive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">Отзывы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-s\" aria-expanded=\"false\">Партнеры</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-m\" aria-expanded=\"true\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobiriz.store/\">Скачать</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -349,7 +349,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13312.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13314.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "Бодбе",
                 "caption": "Бодбе",
@@ -404,7 +404,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13313.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13315.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "вардзия",
                 "caption": "Вардзия",
