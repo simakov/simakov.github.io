@@ -349,7 +349,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x133114.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x133116.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "Бодбе",
                 "caption": "Бодбе",
@@ -404,7 +404,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x133115.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2000x133117.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "вардзия",
                 "caption": "Вардзия",
@@ -490,7 +490,7 @@
             "filter": true,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Тбилиси",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -576,7 +576,7 @@
             "Theme"
           ],
           "articleLayout": false,
-          "allItem": "All",
+          "allItem": "Все",
           "_name": "gallery2",
           "_anchor": "gallery2-w"
         },
@@ -912,8 +912,8 @@
                 "src": "@PROJECT_PATH@/assets/images/33089-tur-v-gruziyu-iz-minska-3-1024x768.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/33089-tur-v-gruziyu-iz-minska-3-64x48.png",
                 "title": "Ртвели",
-                "text": "",
-                "active": false
+                "text": "Участие в сборе урожая винограда и закладке нового вина",
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/50a4075d4cd862463a6f31505d668a2c-1344x900.jpg",
@@ -922,7 +922,7 @@
                 "src": "@PROJECT_PATH@/assets/images/50a4075d4cd862463a6f31505d668a2c-720x482.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/50a4075d4cd862463a6f31505d668a2c-71x48.png",
                 "title": "Чача",
-                "text": "",
+                "text": "Дистилляция",
                 "active": false
               },
               {
@@ -972,7 +972,7 @@
                 "src": "@PROJECT_PATH@/assets/images/217024157-960x624.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/217024157-73x48.png",
                 "title": "Хридоли",
-                "text": "",
+                "text": "традиционное хевсурское фехтование",
                 "active": false
               },
               {
@@ -983,7 +983,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/big-72x48.png",
                 "title": "Керамика",
                 "text": "",
-                "active": true
+                "active": false
               }
             ],
             "fullScreen": true,
