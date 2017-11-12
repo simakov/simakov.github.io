@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 33,
+    "uniqCompNum": 34,
     "versionPublish": "4.4.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x125.png",
     "noImageResize": ""
@@ -312,7 +312,7 @@
         },
         {
           "_params": {
-            "showBullets": false,
+            "showBullets": true,
             "fullWidth": false,
             "spacing": 0,
             "paddingTop": 0,
@@ -323,7 +323,40 @@
             "filter": true,
             "images": [
               {
-                "tags": "Responsive",
+                "tags": "Тбилиси",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/abanotubani-1978x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abanotubani-1978x1331-800x538.jpg",
+                "alt": "Абанотубани",
+                "caption": "Абанотубани",
+                "active": false
+              },
+              {
+                "tags": "Тбилиси",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/sololaki-1825x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sololaki-1825x1331-800x583.jpg",
+                "alt": "Сололаки",
+                "caption": "Сололаки",
+                "active": false
+              },
+              {
+                "tags": "Мцхета-Мтианети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/marjanishvili-1997x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/marjanishvili-1997x1331-800x533.jpg",
+                "alt": "Марджанишвили",
+                "caption": "Марджанишвили",
+                "active": false
+              },
+              {
+                "tags": "Мцхета-Мтианети",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -334,40 +367,73 @@
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "Мцхета-Мтианети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ananuri-1996x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ananuri-1996x1331-800x533.jpg",
+                "alt": "Ананури",
+                "caption": "Ананури",
+                "active": false
+              },
+              {
+                "tags": "Мцхета-Мтианети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gudauri-2000x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gudauri-2000x1331-800x532.jpg",
+                "alt": "Гудаури",
+                "caption": "Гудаури",
+                "active": false
+              },
+              {
+                "tags": "Мцхета-Мтианети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/kazbegi-2000x1308.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kazbegi-2000x1308-800x523.jpg",
+                "alt": "Казбеги",
+                "caption": "Казбеги",
+                "active": false
+              },
+              {
+                "tags": "Кахети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pasanauri-1775x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pasanauri-1775x1331-800x599.jpg",
+                "alt": "Пасанаури",
+                "caption": "Пасанаури",
+                "active": false
+              },
+              {
+                "tags": "Кахети",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/-2000x1331.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
-                "alt": "сигнаги",
-                "caption": "Сигнаги",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13310.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
                 "alt": "Бодбе",
                 "caption": "Бодбе",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Кахети",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/14467062016-653d851c88-b-1024x683.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14467062016-653d851c88-b-1024x683-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cinandali-1995x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cinandali-1995x1331-800x533.jpg",
                 "alt": "Цинандали",
                 "caption": "Цинандали",
                 "active": false
               },
               {
-                "tags": "Beautiful",
+                "tags": "Кахети",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -378,7 +444,18 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Кахети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gremi-2000x1255.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gremi-2000x1255-800x502.jpg",
+                "alt": "Греми",
+                "caption": "Греми",
+                "active": false
+              },
+              {
+                "tags": "Кахети",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -389,7 +466,161 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Кахети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tusheti-1982x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tusheti-1982x1331-800x537.jpg",
+                "alt": "Тушети",
+                "caption": "Тушети",
+                "active": false
+              },
+              {
+                "tags": "Самцхе-Джавахети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/davit-gareja-1997x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/davit-gareja-1997x1331-800x533.jpg",
+                "alt": "Давид Гареджи",
+                "caption": "Давид Гареджи",
+                "active": false
+              },
+              {
+                "tags": "Самцхе-Джавахети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bakuriani-2000x1104.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bakuriani-2000x1104-800x441.jpg",
+                "alt": "Бакуриани",
+                "caption": "Бакуриани",
+                "active": false
+              },
+              {
+                "tags": "Самцхе-Джавахети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13310.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
+                "alt": "Вардзия",
+                "caption": "Вардзия",
+                "active": false
+              },
+              {
+                "tags": "Имерети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/rabati-1982x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rabati-1982x1331-800x537.jpg",
+                "alt": "Рабат",
+                "caption": "Рабат",
+                "active": false
+              },
+              {
+                "tags": "Имерети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/kutaisi-1988x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kutaisi-1988x1331-800x535.jpg",
+                "alt": "Кутаиси",
+                "caption": "Кутаиси",
+                "active": false
+              },
+              {
+                "tags": "Имерети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/prometeus-cave-1992x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/prometeus-cave-1992x1331-800x534.jpg",
+                "alt": "Пещеры Прометея",
+                "caption": "Пещеры Прометея",
+                "active": false
+              },
+              {
+                "tags": "Имерети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/sataplia-2000x1325.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sataplia-2000x1325-800x530.jpg",
+                "alt": "Сатаплия",
+                "caption": "Сатаплия",
+                "active": false
+              },
+              {
+                "tags": "Имерети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/katskhi-2000x1259.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/katskhi-2000x1259-800x503.jpg",
+                "alt": "Кацхи",
+                "caption": "Кацхи",
+                "active": false
+              },
+              {
+                "tags": "Рача",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/okatse-1997x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/okatse-1997x1331-800x533.jpg",
+                "alt": "Окаце",
+                "caption": "Окаце",
+                "active": false
+              },
+              {
+                "tags": "Рача",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/khvanchkara-2000x1172.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/khvanchkara-2000x1172-800x468.jpg",
+                "alt": "Хванчкара",
+                "caption": "Хванчкара",
+                "active": false
+              },
+              {
+                "tags": "Сванети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tskhrajvari-2000x1172.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tskhrajvari-2000x1172-800x468.jpg",
+                "alt": "Цхраджвари",
+                "caption": "Цхраджвари",
+                "active": false
+              },
+              {
+                "tags": "Сванети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mestia-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mestia-2000x1125-800x450.jpg",
+                "alt": "Местия",
+                "caption": "Местия",
+                "active": false
+              },
+              {
+                "tags": "Аджара",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ushguli-1997x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ushguli-1997x1331-800x533.jpg",
+                "alt": "Ушгули",
+                "caption": "Ушгули",
+                "active": false
+              },
+              {
+                "tags": "Аджара",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -400,185 +631,69 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2000x13311.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
-                "alt": "вардзия",
-                "caption": "Вардзия",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/gremi-2000x1255.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gremi-2000x1255-800x502.jpg",
-                "alt": "греми",
-                "caption": "Греми",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/svaneti-2000x1126.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/svaneti-2000x1126-800x450.jpg",
-                "alt": "сванети",
-                "caption": "Cванети",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/cinandali-1995x1331.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cinandali-1995x1331-800x533.jpg",
-                "alt": "цинандали",
-                "caption": "Цинандали",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
+                "tags": "Самегрело",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/botsad-2000x1328.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/botsad-2000x1328-800x531.jpg",
-                "alt": "батумский ботанический сад",
-                "caption": "Батумский ботанический сад",
+                "alt": "Батумский Ботанически сад",
+                "caption": "Батумский Ботанически сад",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Самегрело",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/gruziya-1024x768.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gruziya-1024x768-800x600.jpg",
-                "alt": "Тбилиси",
-                "caption": "Тбилиси",
+                "image": "@PROJECT_PATH@/assets/images/zugdidi-2000x1271.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zugdidi-2000x1271-800x508.jpg",
+                "alt": "Зугдиди",
+                "caption": "Зугдиди",
+                "active": false
+              },
+              {
+                "tags": "Самегрело",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/martvili-2000x1278.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/martvili-2000x1278-800x511.jpg",
+                "alt": "Мартвили",
+                "caption": "Мартвили",
+                "active": true
+              },
+              {
+                "tags": "Шида-Картли",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gori-2000x1287.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gori-2000x1287-800x514.jpg",
+                "alt": "Гори",
+                "caption": "Гори",
+                "active": false
+              },
+              {
+                "tags": "Шида-Картли",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-2000x13311.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1331-800x532.jpg",
+                "alt": "Уплисцихе",
+                "caption": "Уплисцихе",
                 "active": false
               }
             ]
           },
           "articleLayout": false,
-          "allItem": "All",
+          "allItem": "Все",
           "_tags": [
             "Theme"
           ],
           "_name": "gallery1",
-          "_anchor": "gallery1-3",
-          "_customCSS": ""
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": 0,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "filterBgColor": false,
-            "bgColor": "fff",
-            "showText": false,
-            "filter": true,
-            "images": [
-              {
-                "tags": "Тбилиси",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
-                "alt": "",
-                "caption": "Введите описание",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
-                "alt": "",
-                "caption": "Введите описание"
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
-                "alt": "",
-                "caption": "Введите описание"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
-                "alt": "",
-                "caption": "Введите описание"
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
-                "alt": "",
-                "caption": "Введите описание"
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/table.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
-                "alt": "",
-                "caption": "Введите описание"
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
-                "alt": "",
-                "caption": "Введите описание"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
-                "alt": "",
-                "caption": "Введите описание"
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "allItem": "Все",
-          "_name": "gallery2",
-          "_anchor": "gallery2-w"
+          "_anchor": "gallery1-x"
         },
         {
           "_styles": {
@@ -1102,7 +1217,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1110,7 +1225,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1442,7 +1557,7 @@
           ],
           "_name": "form2",
           "_anchor": "form2-q",
-          "_customHTML": "<section class=\"mbr-section form2\" data-rv-view=\"179\" style=\"background-color: rgb(46, 46, 46); padding-top: 120px; padding-bottom: 120px;\">\n        \n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"19\">Форма подписки</h3>\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"20\">Подписаться на новости и спецпредложения</small>\n                </div>\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\" form-type=\"formo id\">\n                    <div data-form-alert=\"true\"><div hidden=\"\" data-form-alert-success=\"true\">Сообщение отправлено!</div></div>\n                    <form class=\"mbr-form\" action=\"https://cp.unisender.com/ru/subscribe?hash=6punmpye65aumko8dn1qu195y4tykp1fyppkqgbmp9f56ib1yqmjy\" method=\"post\" data-form-title=\"Форма подписки\">\n                        <div class=\"mbr-subscribe mbr-subscribe-dark input-group\">\n                            <input type=\"email\" class=\"form-control\" name=\"email\" required=\"1\" data-form-field=\"E-mail\" placeholder=\"Введите Ваш E-mail\" id=\"form2-q-email\">\n                            <span class=\"input-group-btn\"><button type=\"submit\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"21\">Подписаться</button></span>\n                        </div>\n      <input type=\"hidden\" name=\"charset\" value=\"UTF-8\">\n<input type=\"hidden\" name=\"default_list_id\" value=\"11474381\">\n<input type=\"hidden\" name=\"overwrite\" value=\"2\">\n<input type=\"hidden\" name=\"is_v5\" value=\"1\">\n                    </form>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section form2\" data-rv-view=\"179\" style=\"background-color: rgb(46, 46, 46); padding-top: 120px; padding-bottom: 120px;\">\n        \n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"25\">Форма подписки</h3>\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"26\">Подписаться на новости и спецпредложения</small>\n                </div>\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\" form-type=\"formo id\">\n                    <div data-form-alert=\"true\"><div hidden=\"\" data-form-alert-success=\"true\">Сообщение отправлено!</div></div>\n                    <form class=\"mbr-form\" action=\"https://cp.unisender.com/ru/subscribe?hash=6punmpye65aumko8dn1qu195y4tykp1fyppkqgbmp9f56ib1yqmjy\" method=\"post\" data-form-title=\"Форма подписки\">\n                        <div class=\"mbr-subscribe mbr-subscribe-dark input-group\">\n                            <input type=\"email\" class=\"form-control\" name=\"email\" required=\"1\" data-form-field=\"E-mail\" placeholder=\"Введите Ваш E-mail\" id=\"form2-q-email\">\n                            <span class=\"input-group-btn\"><button type=\"submit\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"27\">Подписаться</button></span>\n                        </div>\n      <input type=\"hidden\" name=\"charset\" value=\"UTF-8\">\n<input type=\"hidden\" name=\"default_list_id\" value=\"11474381\">\n<input type=\"hidden\" name=\"overwrite\" value=\"2\">\n<input type=\"hidden\" name=\"is_v5\" value=\"1\">\n                    </form>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title {\n  color: #fff;\n}\n.mbr-section-subtitle {\n  color: #a0a0a0;\n}\n",
