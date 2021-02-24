@@ -69,7 +69,7 @@ function submit(){
         var newUrl = insertParam(window.location.href, 'url', url);
 
         // check the referrer
-        if (window.location.origin && window.location.origin !== 'https://iframetester.com'){
+        if (window.location.origin && window.location.origin !== 'https://simakov.github.io'){
             newUrl = insertParam(newUrl, 'ref', window.location.origin);
         }
 
