@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+		<title>Iframe Tester</title>
+        <meta name="description" content="Test any webpage being rendered in an iframe">
+        <meta property="og:title" content="Render page in iframe online"/>
+        <meta property="og:description" content="Tool to load up any webpage in an iframe to test for display, CORS settings, and third-party cookies"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="shortcut icon" type="image/ico" href="./img/icon.ico" />
+
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/flexbox.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/index.css">
+
+        <script type='text/javascript' src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <!-- <script type='text/javascript' src="./js/vendored/jquery-plugins.js"></script> -->
+        <script type='text/javascript' src="./js/index.js"></script>
+
+        <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+    </head>
+    <body>
+        <header>
+            <h1>Iframe Tester</h1>
+        </header>
+        <main>
+            <div class="search-bar-container">
+                <input id="url-search" type="url" placeholder="Enter a url"></input>
+                <button onclick="submit()">Render iframe</button>
+            </div>
+            <div class="iframe-container">
+                <iframe id="iframe-window">
+                    <p>Your browser does not support iframes.</p>
+                </iframe>
+                <div id="blank-state">
+                    <h2>Test a url to see if it can be displayed in an iframe</h2>
+                    <p>Not all web pages can be embedded in an iframe.</p>
+                    <p>This setting is determined by the "X-Frame-Options" sent from the page's server.</p>
+                </div>
+                <div id="loading-state">
+                    <h2>Loading...</h2>
+                </div>
+                <div id="error-message">
+                    <h2 id="error-text"></h2>
+                </div>
+            </div>
+        </main>
+        <footer>
+            
+        </footer>
+    </body>
+</html>
